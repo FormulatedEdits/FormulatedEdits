@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FormulatedEdits
+- 👀 I’m interested in Python, web development, FOSS, graphic design, linguistics, psychology, and all kinds of things.
+- 🌱 I’m currently learning to proofread and edit English (UK).
+- 💞️ I’m looking to collaborate on any project that suits my skills.
+- 📫 You can reach me on my Proton Mail: FormulatedEditorial@ProtonMail.com
